@@ -1,0 +1,4 @@
+.node #title {
+    background-color: rgb(75, 125, 75);
+    -unity-font-style: bold; 
+}

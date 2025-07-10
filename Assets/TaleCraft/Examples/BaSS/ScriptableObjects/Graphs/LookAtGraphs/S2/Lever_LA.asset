@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd7aacfd666d744ab8bf09a5a18dd9e, type: 3}
+  m_Name: Lever_LA
+  m_EditorClassIdentifier: 
+  EdgeDatas:
+  - TargetNodeGuid: 7fe3342c-f5a9-466d-913c-cd7ddb6124d3
+    TargetPortName: Input
+    BaseNodeGuid: a7123daf-1ea4-4708-b8ab-57be757af58b
+    BasePortName: Output
+  - TargetNodeGuid: 8beb38dd-c9b8-48d0-87f2-ddbbd9df60fd
+    TargetPortName: Input
+    BaseNodeGuid: 7fe3342c-f5a9-466d-913c-cd7ddb6124d3
+    BasePortName: Continue
+  StartNodeDatas:
+  - NodeGuid: a7123daf-1ea4-4708-b8ab-57be757af58b
+    Position: {x: 203.33333, y: 298.66666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+  DialogueNodeDatas:
+  - NodeGuid: 7fe3342c-f5a9-466d-913c-cd7ddb6124d3
+    Position: {x: 496.66666, y: 298.66666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 6
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: 'It''s a LEVER with a big
+
+        red KNOB - just WAITING
+
+        to
+        be PULLED!'
+  ChoiceNodeDatas: []
+  EventNodeDatas: []
+  BranchNodeDatas: []
+  EndNodeDatas:
+  - NodeGuid: 8beb38dd-c9b8-48d0-87f2-ddbbd9df60fd
+    Position: {x: 787.3333, y: 298.66666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    EndNodeType: 0

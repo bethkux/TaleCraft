@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd7aacfd666d744ab8bf09a5a18dd9e, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  EdgeDatas:
+  - TargetNodeGuid: ddfcddde-6e8e-486d-a3b4-f398efd9c758
+    TargetPortName: Input
+    BaseNodeGuid: 7273654a-37cb-401a-ad53-27f112a279cc
+    BasePortName: Output
+  - TargetNodeGuid: d0f56b54-dba0-4db1-84b7-12a606ca2778
+    TargetPortName: Input
+    BaseNodeGuid: ddfcddde-6e8e-486d-a3b4-f398efd9c758
+    BasePortName: Continue
+  StartNodeDatas:
+  - NodeGuid: 7273654a-37cb-401a-ad53-27f112a279cc
+    Position: {x: 184.66667, y: 290.66666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+  DialogueNodeDatas:
+  - NodeGuid: ddfcddde-6e8e-486d-a3b4-f398efd9c758
+    Position: {x: 511.33334, y: 290.66666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+    DialogueText: I don't know what to do.
+    ContinueType: 1
+    WaitTime: 2.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: I don't know what to do.
+  ChoiceNodeDatas: []
+  EventNodeDatas: []
+  BranchNodeDatas: []
+  EndNodeDatas:
+  - NodeGuid: d0f56b54-dba0-4db1-84b7-12a606ca2778
+    Position: {x: 858, y: 290.66666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    EndNodeType: 0

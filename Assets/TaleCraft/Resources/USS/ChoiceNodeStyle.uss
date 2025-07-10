@@ -1,0 +1,11 @@
+.custom-text-field {
+    width: 150px;
+    min-width: 150px;
+    max-width: 150px;
+}
+
+.node #title {
+    background-color: rgb(210, 180, 35);
+    -unity-font-style: bold; 
+}
+

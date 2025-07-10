@@ -1,0 +1,22 @@
+.custom-text-field {
+    width: 150px;
+    min-width: 150px;
+    max-width: 150px;
+}
+
+.node #title {
+    background-color: rgb(48, 92, 222);
+    -unity-font-style: bold; 
+}
+
+
+#node-border {
+    background-color: rgb(20,20,20);
+}
+
+.Label {
+    margin-top:5px;
+    margin-left:4px;
+    font-size:12px;
+    -unity-font-style: bold; 
+}

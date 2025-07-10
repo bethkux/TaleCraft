@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7c2059f0832c214db377b247c9509cf, type: 3}
+  m_Name: PrefabLibrary
+  m_EditorClassIdentifier: 
+  prefabs:
+  - Name: GameManager
+    Object: {fileID: 2949700940741571212, guid: 1293462ad75016249943ef2c8be7e397, type: 3}
+  - Name: WalkingSystem
+    Object: {fileID: 7434863576894278243, guid: b33bc7e4f0060e5438543de65a6bbfeb, type: 3}
+  - Name: CommandSystem
+    Object: {fileID: 7784966186583422892, guid: f644a049948c68041976e7cf146940bb, type: 3}
+  - Name: InputHandler
+    Object: {fileID: 428543886832960851, guid: 598bb8a711119b844bf4a90417bcb9b7, type: 3}
+  - Name: Obstacle
+    Object: {fileID: 852473125121332131, guid: 9673f9301a88b644e9526222ed404052, type: 3}
+  - Name: Point
+    Object: {fileID: 5251763733715979202, guid: c53ee71ba13c95b42b4856b703399b5f, type: 3}
+  - Name: Command
+    Object: {fileID: 322500473295966873, guid: cc580854d11495d4a941db9be274f69b, type: 3}
+  - Name: InventorySlot
+    Object: {fileID: 9138609888712391919, guid: e559c176a0b32434993df62d051c6f5b, type: 3}
+  - Name: ChoiceButton
+    Object: {fileID: 144398189504350015, guid: 6a7a6dbe6e603db48a1b30a371279008, type: 3}
+  - Name: DragIcon
+    Object: {fileID: 9138609888712391919, guid: 3c9a2b0bd303e414aa2b9247c535a14f, type: 3}

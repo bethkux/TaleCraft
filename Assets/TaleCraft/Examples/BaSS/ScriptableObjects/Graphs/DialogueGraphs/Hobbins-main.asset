@@ -1,0 +1,1861 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd7aacfd666d744ab8bf09a5a18dd9e, type: 3}
+  m_Name: Hobbins-main
+  m_EditorClassIdentifier: 
+  GroupDatas:
+  - GroupGuid: 37a1f27ada12fd7439f44b7c4eb6b52d
+    Title: CHOICE 2
+    Position: {x: 1134, y: 224.66666}
+    NodeGuids:
+    - 439792a4-2667-4a81-95be-d06720f4b50f
+    - 93f1446d-fd94-4e2a-8641-98238c4ed326
+    - b8cc71af-1267-44f6-981c-77b6f55f3887
+    - a469bc67-309a-4c83-92e3-04cd60dc7bbe
+    - ffc171ef-8beb-4cb7-b59a-234621a8ce04
+    - f5b705ed-b3a0-414f-a905-93090df5c119
+    - 36a120b8-4f47-4294-b79f-1685e7e6bc6f
+    - 12c57cb4-8c62-4de3-8253-162a378bbd80
+    - 7868fb85-e475-41c2-b89c-ee2e68fc491e
+    - b9b358ac-64c2-4ae3-9fa6-7d535bfe3f9b
+    - 7576bff7-9092-4a3f-b89b-c629eeec3cd4
+    - 4bd24b28-1c86-4693-bf8b-a48b500cb999
+    - 22c3a55b-4d79-45ff-ae79-371a730f497d
+    - 33f99600-3bc4-41a8-8d71-fbe3875ad651
+    - bbd6f5c9-6751-4ad4-b6fd-ea318eadd206
+    - 257a0f8f-b26b-4fbf-8116-718cefee6220
+    - aabf3524-197f-4207-8b14-a3713754c8a1
+    - 4c420bce-7ac4-4d1e-95df-72420310763d
+    - 80535e0e-4017-47fb-aaa2-a4b0680c37d4
+    - e7f7662c-b455-454b-bffb-57bba04684fe
+    - 4b44b73a-b068-4be4-a8ee-36593a82ec8a
+  - GroupGuid: 226e6cae9394511408cd7907b99932a9
+    Title: CHOICE 4
+    Position: {x: 1128.6666, y: 3132.6667}
+    NodeGuids:
+    - 189d953e-75cb-42d1-aa07-5a9697a0456a
+    - f998e332-ee0f-47a1-93c9-5a8e0c2ac190
+    - 4f7d573d-bbbf-43d1-83f5-6e7db78ec94a
+    - 63466a91-9999-4020-b559-0453bc4e6fcf
+    - 41de0082-42fe-4a24-aa36-c469e34e6f72
+    - 6e32a2b8-0144-4c2f-b154-21a7f404cbc5
+    - d265a0d3-3c3f-43d1-9664-fba0508ceb56
+    - fabde137-a143-4ac3-8d47-de3450faaec0
+    - 518cb540-4192-4c6d-a5c0-926e8209909c
+    - ce2d340f-6671-420c-bce1-03e822d64d41
+    - be35b83a-75bf-498a-a10f-166af0dfa282
+    - 05dc5364-b6b5-43dc-a632-5f8950bcb0f0
+    - 7ad010bc-7500-47b5-b806-ddbab4d479d0
+    - f060220f-0a0c-427d-94ac-e069748147e0
+    - c4a3e652-53e3-4662-8827-600e9d8ae4ea
+    - e75215b9-04c8-43d7-84dd-3582713af0e6
+    - f0d8073c-a1e4-4801-8d04-0183fa916cf3
+    - 42fca106-dab0-4e61-a8ed-a50dfccca396
+    - 1aa3c575-bb69-4098-baa6-48b5a539c823
+    - 1acff960-12d6-4a1f-a31c-318f53b63441
+  - GroupGuid: d9d76f7bf2fc25545bf4b0d0aaaac34b
+    Title: CHOICE 3
+    Position: {x: 1119.3333, y: 2260}
+    NodeGuids:
+    - a64c622b-b674-4078-bab3-f9f90645eb0d
+    - 56783234-d5cd-438b-bf38-4e11557e1c24
+    - 35002b6d-7c4d-4fdc-a7de-6f5d80e58f91
+    - 19be71df-268f-4e0e-9484-90f2150d017f
+    - 9aabc288-9649-4b17-b51c-1d901e3ab6e3
+    - 95a95144-235c-4946-aee7-1498637cb215
+    - 49f0d750-17b3-4c3d-9076-258e2c156fe7
+    - dc9d174d-9b1b-4b8d-9e76-2d485fd7b072
+    - 01f2aeca-f370-4c8b-968d-4c5c0161b0cf
+    - 4e79b824-bfb3-4641-bf16-7fb8dcfe3fa9
+    - 86cb68c5-a8f5-45ee-b8cd-cea9e9f3d828
+    - 2823aab6-40cf-408b-bbd4-e1e635103936
+    - 8ec9665e-905f-44a5-99ff-97a30e11bdf1
+  - GroupGuid: 05dc49cff9620f64ba0b4b37fa8ede8f
+    Title: CHOICE 1
+    Position: {x: 1129.3333, y: -1392.6666}
+    NodeGuids:
+    - ee136684-83c6-42e7-87d2-7bc3e4b03ce7
+    - 1144602f-a4fa-4e9d-86ec-4a96cb65b82a
+    - e846b8a9-5f23-4362-a5b0-44886b958f2e
+    - be34ca07-88be-43f0-8719-5d14f67e91e7
+    - 9afb47b6-43dc-445e-9e9f-7d789b3f4937
+    - 2697e539-5f34-41b5-a9d2-463b0538e675
+    - c7839d23-dd39-44fa-be98-f2c27099c880
+    - 8a8e9133-69d1-4c64-913b-2931c8e9911c
+    - 7e594020-95c6-4311-bb19-f3cf33e16d2c
+    - f957c9b3-beb8-4ace-960c-5e362cce3184
+    - be23849b-4eb1-4d92-8e86-d774336dc180
+    - 1e77102d-97f7-402c-892d-987aeb6bbb56
+    - e39b87bc-7aa6-499f-bc13-9a4abc05354c
+    - 03acfc09-80bf-45c5-b85f-099762cdcb57
+    - cfe8ca10-4158-447a-b79e-7869ebdfa107
+    - 4fb288f7-2304-48d6-960b-4837a6be9e42
+    - b98676c1-7819-427e-8bd8-fa5f4443b64b
+    - 4f2b6343-d67e-47da-a7b9-656aee38e926
+    - 167b0fd2-77cb-4bf5-a250-cb230cde3a70
+    - bd2a9ac9-ebe5-4432-9222-0acde6fe494c
+    - 99225a1f-8ca9-42d9-bcd8-c73c94d9a4bb
+    - cf61e753-fbe9-4788-8553-ad469db7858f
+    - 5732c332-a273-484d-87b3-49c9fad273b5
+    - 035cf56f-b4d5-4241-9cf6-7515273c7ff9
+    - f421f289-f84a-4643-8c78-1c8a6f9e4e17
+    - 4d1da8d7-0dca-413d-aa50-81b1ba9ad041
+    - 62c6f171-9fdc-4329-acc6-d6c298cf116f
+  - GroupGuid: 20de89c71b5015f47ad709bdb2e45ae0
+    Title: LEAVE
+    Position: {x: 1126, y: 4218}
+    NodeGuids:
+    - c8f30348-5f35-4efd-bd58-46b564c94334
+    - 9d3e4035-7ae4-4cf2-8af1-56ab8e87a063
+    - 43f43c9d-5851-4d63-a2cf-80f1c19dd090
+    - 555db60e-30e9-4ff8-8304-cefdf965b445
+  EdgeDatas:
+  - TargetNodeGuid: 6bcf346d-aa37-4adb-9219-d3881d202213
+    TargetPortName: Input
+    BaseNodeGuid: ed928055-8ced-488c-b261-9316ececede5
+    BasePortName: Output
+  - TargetNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    TargetPortName: Input
+    BaseNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    BasePortName: Continue
+  - TargetNodeGuid: d1318ad5-eec0-42de-9442-e5605fde06ce
+    TargetPortName: Input
+    BaseNodeGuid: 6bcf346d-aa37-4adb-9219-d3881d202213
+    BasePortName: Continue
+  - TargetNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    TargetPortName: Input
+    BaseNodeGuid: d1318ad5-eec0-42de-9442-e5605fde06ce
+    BasePortName: Continue
+  - TargetNodeGuid: 2697e539-5f34-41b5-a9d2-463b0538e675
+    TargetPortName: Input
+    BaseNodeGuid: 9afb47b6-43dc-445e-9e9f-7d789b3f4937
+    BasePortName: Continue
+  - TargetNodeGuid: bd2a9ac9-ebe5-4432-9222-0acde6fe494c
+    TargetPortName: Input
+    BaseNodeGuid: 2697e539-5f34-41b5-a9d2-463b0538e675
+    BasePortName: Continue
+  - TargetNodeGuid: 8a8e9133-69d1-4c64-913b-2931c8e9911c
+    TargetPortName: Input
+    BaseNodeGuid: c7839d23-dd39-44fa-be98-f2c27099c880
+    BasePortName: Continue
+  - TargetNodeGuid: 7e594020-95c6-4311-bb19-f3cf33e16d2c
+    TargetPortName: Input
+    BaseNodeGuid: 8a8e9133-69d1-4c64-913b-2931c8e9911c
+    BasePortName: Continue
+  - TargetNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    TargetPortName: Input
+    BaseNodeGuid: f957c9b3-beb8-4ace-960c-5e362cce3184
+    BasePortName: Continue
+  - TargetNodeGuid: 68fd3b09-66c2-4981-be7f-e682576a0a2e
+    TargetPortName: Input
+    BaseNodeGuid: bd2a9ac9-ebe5-4432-9222-0acde6fe494c
+    BasePortName: Continue
+  - TargetNodeGuid: c7839d23-dd39-44fa-be98-f2c27099c880
+    TargetPortName: Input
+    BaseNodeGuid: 99225a1f-8ca9-42d9-bcd8-c73c94d9a4bb
+    BasePortName: Continue
+  - TargetNodeGuid: 5732c332-a273-484d-87b3-49c9fad273b5
+    TargetPortName: Input
+    BaseNodeGuid: ee136684-83c6-42e7-87d2-7bc3e4b03ce7
+    BasePortName: Continue
+  - TargetNodeGuid: be34ca07-88be-43f0-8719-5d14f67e91e7
+    TargetPortName: Input
+    BaseNodeGuid: 1144602f-a4fa-4e9d-86ec-4a96cb65b82a
+    BasePortName: Continue
+  - TargetNodeGuid: e846b8a9-5f23-4362-a5b0-44886b958f2e
+    TargetPortName: Input
+    BaseNodeGuid: be34ca07-88be-43f0-8719-5d14f67e91e7
+    BasePortName: Continue
+  - TargetNodeGuid: e39b87bc-7aa6-499f-bc13-9a4abc05354c
+    TargetPortName: Input
+    BaseNodeGuid: be23849b-4eb1-4d92-8e86-d774336dc180
+    BasePortName: Continue
+  - TargetNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    TargetPortName: Input
+    BaseNodeGuid: 1e77102d-97f7-402c-892d-987aeb6bbb56
+    BasePortName: Continue
+  - TargetNodeGuid: 03acfc09-80bf-45c5-b85f-099762cdcb57
+    TargetPortName: Input
+    BaseNodeGuid: e39b87bc-7aa6-499f-bc13-9a4abc05354c
+    BasePortName: Continue
+  - TargetNodeGuid: 4fb288f7-2304-48d6-960b-4837a6be9e42
+    TargetPortName: Input
+    BaseNodeGuid: 03acfc09-80bf-45c5-b85f-099762cdcb57
+    BasePortName: Continue
+  - TargetNodeGuid: 1e77102d-97f7-402c-892d-987aeb6bbb56
+    TargetPortName: Input
+    BaseNodeGuid: cfe8ca10-4158-447a-b79e-7869ebdfa107
+    BasePortName: Continue
+  - TargetNodeGuid: cfe8ca10-4158-447a-b79e-7869ebdfa107
+    TargetPortName: Input
+    BaseNodeGuid: 4fb288f7-2304-48d6-960b-4837a6be9e42
+    BasePortName: Continue
+  - TargetNodeGuid: cf61e753-fbe9-4788-8553-ad469db7858f
+    TargetPortName: Input
+    BaseNodeGuid: b98676c1-7819-427e-8bd8-fa5f4443b64b
+    BasePortName: Continue
+  - TargetNodeGuid: 167b0fd2-77cb-4bf5-a250-cb230cde3a70
+    TargetPortName: Input
+    BaseNodeGuid: 4f2b6343-d67e-47da-a7b9-656aee38e926
+    BasePortName: Continue
+  - TargetNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    TargetPortName: Input
+    BaseNodeGuid: 167b0fd2-77cb-4bf5-a250-cb230cde3a70
+    BasePortName: Continue
+  - TargetNodeGuid: 4f2b6343-d67e-47da-a7b9-656aee38e926
+    TargetPortName: Input
+    BaseNodeGuid: cf61e753-fbe9-4788-8553-ad469db7858f
+    BasePortName: Continue
+  - TargetNodeGuid: 1144602f-a4fa-4e9d-86ec-4a96cb65b82a
+    TargetPortName: Input
+    BaseNodeGuid: 5732c332-a273-484d-87b3-49c9fad273b5
+    BasePortName: Continue
+  - TargetNodeGuid: bbd6f5c9-6751-4ad4-b6fd-ea318eadd206
+    TargetPortName: Input
+    BaseNodeGuid: 439792a4-2667-4a81-95be-d06720f4b50f
+    BasePortName: Continue
+  - TargetNodeGuid: b8cc71af-1267-44f6-981c-77b6f55f3887
+    TargetPortName: Input
+    BaseNodeGuid: 93f1446d-fd94-4e2a-8641-98238c4ed326
+    BasePortName: Continue
+  - TargetNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    TargetPortName: Input
+    BaseNodeGuid: b8cc71af-1267-44f6-981c-77b6f55f3887
+    BasePortName: Continue
+  - TargetNodeGuid: 257a0f8f-b26b-4fbf-8116-718cefee6220
+    TargetPortName: Input
+    BaseNodeGuid: a469bc67-309a-4c83-92e3-04cd60dc7bbe
+    BasePortName: Continue
+  - TargetNodeGuid: f5b705ed-b3a0-414f-a905-93090df5c119
+    TargetPortName: Input
+    BaseNodeGuid: ffc171ef-8beb-4cb7-b59a-234621a8ce04
+    BasePortName: Continue
+  - TargetNodeGuid: 36a120b8-4f47-4294-b79f-1685e7e6bc6f
+    TargetPortName: Input
+    BaseNodeGuid: f5b705ed-b3a0-414f-a905-93090df5c119
+    BasePortName: Continue
+  - TargetNodeGuid: 12c57cb4-8c62-4de3-8253-162a378bbd80
+    TargetPortName: Input
+    BaseNodeGuid: 36a120b8-4f47-4294-b79f-1685e7e6bc6f
+    BasePortName: Continue
+  - TargetNodeGuid: 7868fb85-e475-41c2-b89c-ee2e68fc491e
+    TargetPortName: Input
+    BaseNodeGuid: 12c57cb4-8c62-4de3-8253-162a378bbd80
+    BasePortName: Continue
+  - TargetNodeGuid: 7576bff7-9092-4a3f-b89b-c629eeec3cd4
+    TargetPortName: Input
+    BaseNodeGuid: b9b358ac-64c2-4ae3-9fa6-7d535bfe3f9b
+    BasePortName: Continue
+  - TargetNodeGuid: 4bd24b28-1c86-4693-bf8b-a48b500cb999
+    TargetPortName: Input
+    BaseNodeGuid: 7576bff7-9092-4a3f-b89b-c629eeec3cd4
+    BasePortName: Continue
+  - TargetNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    TargetPortName: Input
+    BaseNodeGuid: 4bd24b28-1c86-4693-bf8b-a48b500cb999
+    BasePortName: Continue
+  - TargetNodeGuid: 93f1446d-fd94-4e2a-8641-98238c4ed326
+    TargetPortName: Input
+    BaseNodeGuid: bbd6f5c9-6751-4ad4-b6fd-ea318eadd206
+    BasePortName: Continue
+  - TargetNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    TargetPortName: Input
+    BaseNodeGuid: 257a0f8f-b26b-4fbf-8116-718cefee6220
+    BasePortName: Continue
+  - TargetNodeGuid: 33f99600-3bc4-41a8-8d71-fbe3875ad651
+    TargetPortName: Input
+    BaseNodeGuid: 22c3a55b-4d79-45ff-ae79-371a730f497d
+    BasePortName: Continue
+  - TargetNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    TargetPortName: Input
+    BaseNodeGuid: 33f99600-3bc4-41a8-8d71-fbe3875ad651
+    BasePortName: Continue
+  - TargetNodeGuid: 2823aab6-40cf-408b-bbd4-e1e635103936
+    TargetPortName: Input
+    BaseNodeGuid: a64c622b-b674-4078-bab3-f9f90645eb0d
+    BasePortName: 08ee0476-0dd7-4004-badf-f834c2ca08f2
+  - TargetNodeGuid: 8ec9665e-905f-44a5-99ff-97a30e11bdf1
+    TargetPortName: Input
+    BaseNodeGuid: a64c622b-b674-4078-bab3-f9f90645eb0d
+    BasePortName: 569860de-4433-4fca-99df-0aa2f10c3ad4
+  - TargetNodeGuid: 01f2aeca-f370-4c8b-968d-4c5c0161b0cf
+    TargetPortName: Input
+    BaseNodeGuid: 56783234-d5cd-438b-bf38-4e11557e1c24
+    BasePortName: Continue
+  - TargetNodeGuid: 9aabc288-9649-4b17-b51c-1d901e3ab6e3
+    TargetPortName: Input
+    BaseNodeGuid: 35002b6d-7c4d-4fdc-a7de-6f5d80e58f91
+    BasePortName: Continue
+  - TargetNodeGuid: 49f0d750-17b3-4c3d-9076-258e2c156fe7
+    TargetPortName: Input
+    BaseNodeGuid: 19be71df-268f-4e0e-9484-90f2150d017f
+    BasePortName: Continue
+  - TargetNodeGuid: 95a95144-235c-4946-aee7-1498637cb215
+    TargetPortName: Input
+    BaseNodeGuid: 9aabc288-9649-4b17-b51c-1d901e3ab6e3
+    BasePortName: Continue
+  - TargetNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    TargetPortName: Input
+    BaseNodeGuid: 95a95144-235c-4946-aee7-1498637cb215
+    BasePortName: Continue
+  - TargetNodeGuid: dc9d174d-9b1b-4b8d-9e76-2d485fd7b072
+    TargetPortName: Input
+    BaseNodeGuid: 49f0d750-17b3-4c3d-9076-258e2c156fe7
+    BasePortName: Continue
+  - TargetNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    TargetPortName: Input
+    BaseNodeGuid: dc9d174d-9b1b-4b8d-9e76-2d485fd7b072
+    BasePortName: Continue
+  - TargetNodeGuid: 4e79b824-bfb3-4641-bf16-7fb8dcfe3fa9
+    TargetPortName: Input
+    BaseNodeGuid: 01f2aeca-f370-4c8b-968d-4c5c0161b0cf
+    BasePortName: Continue
+  - TargetNodeGuid: a64c622b-b674-4078-bab3-f9f90645eb0d
+    TargetPortName: Input
+    BaseNodeGuid: 4e79b824-bfb3-4641-bf16-7fb8dcfe3fa9
+    BasePortName: Continue
+  - TargetNodeGuid: 41de0082-42fe-4a24-aa36-c469e34e6f72
+    TargetPortName: Input
+    BaseNodeGuid: 63466a91-9999-4020-b559-0453bc4e6fcf
+    BasePortName: Continue
+  - TargetNodeGuid: 1aa3c575-bb69-4098-baa6-48b5a539c823
+    TargetPortName: Input
+    BaseNodeGuid: 41de0082-42fe-4a24-aa36-c469e34e6f72
+    BasePortName: d14212c3-0998-4bb6-881b-88b8eaf69afe
+  - TargetNodeGuid: 1acff960-12d6-4a1f-a31c-318f53b63441
+    TargetPortName: Input
+    BaseNodeGuid: 41de0082-42fe-4a24-aa36-c469e34e6f72
+    BasePortName: ff945991-2345-46b4-bc8f-0364c544fbac
+  - TargetNodeGuid: 518cb540-4192-4c6d-a5c0-926e8209909c
+    TargetPortName: Input
+    BaseNodeGuid: fabde137-a143-4ac3-8d47-de3450faaec0
+    BasePortName: Continue
+  - TargetNodeGuid: ce2d340f-6671-420c-bce1-03e822d64d41
+    TargetPortName: Input
+    BaseNodeGuid: 518cb540-4192-4c6d-a5c0-926e8209909c
+    BasePortName: Continue
+  - TargetNodeGuid: be35b83a-75bf-498a-a10f-166af0dfa282
+    TargetPortName: Input
+    BaseNodeGuid: ce2d340f-6671-420c-bce1-03e822d64d41
+    BasePortName: Continue
+  - TargetNodeGuid: 05dc5364-b6b5-43dc-a632-5f8950bcb0f0
+    TargetPortName: Input
+    BaseNodeGuid: be35b83a-75bf-498a-a10f-166af0dfa282
+    BasePortName: Continue
+  - TargetNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    TargetPortName: Input
+    BaseNodeGuid: 05dc5364-b6b5-43dc-a632-5f8950bcb0f0
+    BasePortName: Continue
+  - TargetNodeGuid: c4a3e652-53e3-4662-8827-600e9d8ae4ea
+    TargetPortName: Input
+    BaseNodeGuid: 7ad010bc-7500-47b5-b806-ddbab4d479d0
+    BasePortName: Continue
+  - TargetNodeGuid: 7ad010bc-7500-47b5-b806-ddbab4d479d0
+    TargetPortName: Input
+    BaseNodeGuid: f060220f-0a0c-427d-94ac-e069748147e0
+    BasePortName: Continue
+  - TargetNodeGuid: e75215b9-04c8-43d7-84dd-3582713af0e6
+    TargetPortName: Input
+    BaseNodeGuid: c4a3e652-53e3-4662-8827-600e9d8ae4ea
+    BasePortName: Continue
+  - TargetNodeGuid: 9d3e4035-7ae4-4cf2-8af1-56ab8e87a063
+    TargetPortName: Input
+    BaseNodeGuid: c8f30348-5f35-4efd-bd58-46b564c94334
+    BasePortName: Continue
+  - TargetNodeGuid: 4f7d573d-bbbf-43d1-83f5-6e7db78ec94a
+    TargetPortName: Input
+    BaseNodeGuid: f998e332-ee0f-47a1-93c9-5a8e0c2ac190
+    BasePortName: Continue
+  - TargetNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    TargetPortName: Input
+    BaseNodeGuid: 4f7d573d-bbbf-43d1-83f5-6e7db78ec94a
+    BasePortName: Continue
+  - TargetNodeGuid: f421f289-f84a-4643-8c78-1c8a6f9e4e17
+    TargetPortName: Input
+    BaseNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    BasePortName: 6cbc9ae5-ee1b-4ced-b319-6fdde409e691
+  - TargetNodeGuid: 62c6f171-9fdc-4329-acc6-d6c298cf116f
+    TargetPortName: Input
+    BaseNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    BasePortName: 97f54c26-3568-4d45-ba78-f7e46fbebd74
+  - TargetNodeGuid: 035cf56f-b4d5-4241-9cf6-7515273c7ff9
+    TargetPortName: Input
+    BaseNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    BasePortName: 1c65fd96-f230-48da-acff-85b715f60fd9
+  - TargetNodeGuid: 4d1da8d7-0dca-413d-aa50-81b1ba9ad041
+    TargetPortName: Input
+    BaseNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    BasePortName: ab791ec1-a6f1-4598-a503-56788b22b5b3
+  - TargetNodeGuid: 4b44b73a-b068-4be4-a8ee-36593a82ec8a
+    TargetPortName: Input
+    BaseNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    BasePortName: 97fba980-6d02-4534-ac84-f3831a5ce4ee
+  - TargetNodeGuid: e7f7662c-b455-454b-bffb-57bba04684fe
+    TargetPortName: Input
+    BaseNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    BasePortName: 0588006f-0c61-4622-b22c-d926e475cee8
+  - TargetNodeGuid: 80535e0e-4017-47fb-aaa2-a4b0680c37d4
+    TargetPortName: Input
+    BaseNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    BasePortName: 83bc114e-91f2-4a85-ba43-40348f7c3856
+  - TargetNodeGuid: 4c420bce-7ac4-4d1e-95df-72420310763d
+    TargetPortName: Input
+    BaseNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    BasePortName: f662678d-4672-4e49-85f2-8095b44e6c55
+  - TargetNodeGuid: aabf3524-197f-4207-8b14-a3713754c8a1
+    TargetPortName: Input
+    BaseNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    BasePortName: 3ab02ddf-282f-4259-9a76-b3301348be9b
+  - TargetNodeGuid: 86cb68c5-a8f5-45ee-b8cd-cea9e9f3d828
+    TargetPortName: Input
+    BaseNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    BasePortName: e15e5247-ea8d-4ddf-8859-db43cd7c26fd
+  - TargetNodeGuid: f0d8073c-a1e4-4801-8d04-0183fa916cf3
+    TargetPortName: Input
+    BaseNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    BasePortName: 46e51c71-711e-4bc8-93b0-9f626bc4c971
+  - TargetNodeGuid: 42fca106-dab0-4e61-a8ed-a50dfccca396
+    TargetPortName: Input
+    BaseNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    BasePortName: 4a4bed73-fa5c-4b71-97d1-26a960786112
+  - TargetNodeGuid: 43f43c9d-5851-4d63-a2cf-80f1c19dd090
+    TargetPortName: Input
+    BaseNodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    BasePortName: fa51d96d-0948-4a29-abe3-ddf93075be48
+  - TargetNodeGuid: f957c9b3-beb8-4ace-960c-5e362cce3184
+    TargetPortName: Input
+    BaseNodeGuid: 7e594020-95c6-4311-bb19-f3cf33e16d2c
+    BasePortName: Continue
+  - TargetNodeGuid: 63466a91-9999-4020-b559-0453bc4e6fcf
+    TargetPortName: Input
+    BaseNodeGuid: 6e32a2b8-0144-4c2f-b154-21a7f404cbc5
+    BasePortName: Continue
+  - TargetNodeGuid: f998e332-ee0f-47a1-93c9-5a8e0c2ac190
+    TargetPortName: Input
+    BaseNodeGuid: 189d953e-75cb-42d1-aa07-5a9697a0456a
+    BasePortName: Continue
+  - TargetNodeGuid: fabde137-a143-4ac3-8d47-de3450faaec0
+    TargetPortName: Input
+    BaseNodeGuid: d265a0d3-3c3f-43d1-9664-fba0508ceb56
+    BasePortName: Continue
+  - TargetNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    TargetPortName: Input
+    BaseNodeGuid: e75215b9-04c8-43d7-84dd-3582713af0e6
+    BasePortName: Continue
+  - TargetNodeGuid: 555db60e-30e9-4ff8-8304-cefdf965b445
+    TargetPortName: Input
+    BaseNodeGuid: 9d3e4035-7ae4-4cf2-8af1-56ab8e87a063
+    BasePortName: Continue
+  - TargetNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    TargetPortName: Input
+    BaseNodeGuid: 7868fb85-e475-41c2-b89c-ee2e68fc491e
+    BasePortName: Continue
+  - TargetNodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    TargetPortName: Input
+    BaseNodeGuid: e846b8a9-5f23-4362-a5b0-44886b958f2e
+    BasePortName: Continue
+  - TargetNodeGuid: 9afb47b6-43dc-445e-9e9f-7d789b3f4937
+    TargetPortName: Input
+    BaseNodeGuid: f421f289-f84a-4643-8c78-1c8a6f9e4e17
+    BasePortName: Output
+  - TargetNodeGuid: ee136684-83c6-42e7-87d2-7bc3e4b03ce7
+    TargetPortName: Input
+    BaseNodeGuid: 035cf56f-b4d5-4241-9cf6-7515273c7ff9
+    BasePortName: Output
+  - TargetNodeGuid: be23849b-4eb1-4d92-8e86-d774336dc180
+    TargetPortName: Input
+    BaseNodeGuid: 4d1da8d7-0dca-413d-aa50-81b1ba9ad041
+    BasePortName: Output
+  - TargetNodeGuid: b98676c1-7819-427e-8bd8-fa5f4443b64b
+    TargetPortName: Input
+    BaseNodeGuid: 62c6f171-9fdc-4329-acc6-d6c298cf116f
+    BasePortName: Output
+  - TargetNodeGuid: 22c3a55b-4d79-45ff-ae79-371a730f497d
+    TargetPortName: Input
+    BaseNodeGuid: 4b44b73a-b068-4be4-a8ee-36593a82ec8a
+    BasePortName: Output
+  - TargetNodeGuid: 439792a4-2667-4a81-95be-d06720f4b50f
+    TargetPortName: Input
+    BaseNodeGuid: aabf3524-197f-4207-8b14-a3713754c8a1
+    BasePortName: Output
+  - TargetNodeGuid: a469bc67-309a-4c83-92e3-04cd60dc7bbe
+    TargetPortName: Input
+    BaseNodeGuid: 4c420bce-7ac4-4d1e-95df-72420310763d
+    BasePortName: Output
+  - TargetNodeGuid: ffc171ef-8beb-4cb7-b59a-234621a8ce04
+    TargetPortName: Input
+    BaseNodeGuid: 80535e0e-4017-47fb-aaa2-a4b0680c37d4
+    BasePortName: Output
+  - TargetNodeGuid: b9b358ac-64c2-4ae3-9fa6-7d535bfe3f9b
+    TargetPortName: Input
+    BaseNodeGuid: e7f7662c-b455-454b-bffb-57bba04684fe
+    BasePortName: Output
+  - TargetNodeGuid: 56783234-d5cd-438b-bf38-4e11557e1c24
+    TargetPortName: Input
+    BaseNodeGuid: 86cb68c5-a8f5-45ee-b8cd-cea9e9f3d828
+    BasePortName: Output
+  - TargetNodeGuid: 35002b6d-7c4d-4fdc-a7de-6f5d80e58f91
+    TargetPortName: Input
+    BaseNodeGuid: 2823aab6-40cf-408b-bbd4-e1e635103936
+    BasePortName: Output
+  - TargetNodeGuid: 19be71df-268f-4e0e-9484-90f2150d017f
+    TargetPortName: Input
+    BaseNodeGuid: 8ec9665e-905f-44a5-99ff-97a30e11bdf1
+    BasePortName: Output
+  - TargetNodeGuid: 6e32a2b8-0144-4c2f-b154-21a7f404cbc5
+    TargetPortName: Input
+    BaseNodeGuid: f0d8073c-a1e4-4801-8d04-0183fa916cf3
+    BasePortName: Output
+  - TargetNodeGuid: d265a0d3-3c3f-43d1-9664-fba0508ceb56
+    TargetPortName: Input
+    BaseNodeGuid: 1aa3c575-bb69-4098-baa6-48b5a539c823
+    BasePortName: Output
+  - TargetNodeGuid: f060220f-0a0c-427d-94ac-e069748147e0
+    TargetPortName: Input
+    BaseNodeGuid: 1acff960-12d6-4a1f-a31c-318f53b63441
+    BasePortName: Output
+  - TargetNodeGuid: c8f30348-5f35-4efd-bd58-46b564c94334
+    TargetPortName: Input
+    BaseNodeGuid: 43f43c9d-5851-4d63-a2cf-80f1c19dd090
+    BasePortName: Output
+  - TargetNodeGuid: 189d953e-75cb-42d1-aa07-5a9697a0456a
+    TargetPortName: Input
+    BaseNodeGuid: 42fca106-dab0-4e61-a8ed-a50dfccca396
+    BasePortName: Output
+  - TargetNodeGuid: 99225a1f-8ca9-42d9-bcd8-c73c94d9a4bb
+    TargetPortName: Input
+    BaseNodeGuid: 68fd3b09-66c2-4981-be7f-e682576a0a2e
+    BasePortName: Output
+  StartNodeDatas:
+  - NodeGuid: ed928055-8ced-488c-b261-9316ececede5
+    Position: {x: -858.6667, y: 1110.6666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+  DialogueNodeDatas:
+  - NodeGuid: e6707cbc-0e8f-4367-87cc-66d282910579
+    Position: {x: 4742, y: 1068}
+    ID: RETURN TO CHOICES
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 0
+    TextBoxes: []
+  - NodeGuid: 6bcf346d-aa37-4adb-9219-d3881d202213
+    Position: {x: -578.6667, y: 1110.6666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "Excuse me\u2026"
+  - NodeGuid: d1318ad5-eec0-42de-9442-e5605fde06ce
+    Position: {x: -308.66666, y: 1110.6666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: What NOW?
+  - NodeGuid: 9afb47b6-43dc-445e-9e9f-7d789b3f4937
+    Position: {x: 1498.6666, y: -1334}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "Who\u2019s in CHARGE around\r\nhere?"
+  - NodeGuid: 2697e539-5f34-41b5-a9d2-463b0538e675
+    Position: {x: 1774.6666, y: -1334}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: 'Not ME! I just WORK
+
+        here.'
+  - NodeGuid: c7839d23-dd39-44fa-be98-f2c27099c880
+    Position: {x: 2598.6667, y: -1334}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "It\u2019s LAMB you\u2019ll be\r\nwanting."
+  - NodeGuid: 8a8e9133-69d1-4c64-913b-2931c8e9911c
+    Position: {x: 2875.3333, y: -1334}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "He\u2019s the SUPERVISOR."
+  - NodeGuid: f957c9b3-beb8-4ace-960c-5e362cce3184
+    Position: {x: 3424, y: -1334}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "The COUNCIL, of course!\r"
+  - NodeGuid: bd2a9ac9-ebe5-4432-9222-0acde6fe494c
+    Position: {x: 2049.3333, y: -1334}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "Hobbins is the name\u2026"
+  - NodeGuid: 99225a1f-8ca9-42d9-bcd8-c73c94d9a4bb
+    Position: {x: 2328.6667, y: -1334}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: 'Who IS in charge, and
+
+        where can I FIND him?'
+  - NodeGuid: ee136684-83c6-42e7-87d2-7bc3e4b03ce7
+    Position: {x: 1498.6666, y: -581.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: 'What was it like before
+
+        LINC?'
+  - NodeGuid: 1144602f-a4fa-4e9d-86ec-4a96cb65b82a
+    Position: {x: 2067.3333, y: -581.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "We didn\u2019t have the\r\nPROBLEMS we got NOW."
+  - NodeGuid: be34ca07-88be-43f0-8719-5d14f67e91e7
+    Position: {x: 2366.6667, y: -581.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: 'So who BUILT the
+
+        COMPUTER?'
+  - NodeGuid: be23849b-4eb1-4d92-8e86-d774336dc180
+    Position: {x: 1498.6666, y: -204.66666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: 'How come your FIRE
+
+        EXIT leads NOWHERE?'
+  - NodeGuid: 1e77102d-97f7-402c-892d-987aeb6bbb56
+    Position: {x: 2935.3333, y: -204.66666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "Don\u2019t come runnin\u2019 to\r\nME for SYMPATHY!"
+  - NodeGuid: e39b87bc-7aa6-499f-bc13-9a4abc05354c
+    Position: {x: 1768.6666, y: -204.66666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: You been UP there?
+  - NodeGuid: 03acfc09-80bf-45c5-b85f-099762cdcb57
+    Position: {x: 2067.3333, y: -204.66666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "It\u2019s not SAFE!"
+  - NodeGuid: cfe8ca10-4158-447a-b79e-7869ebdfa107
+    Position: {x: 2636.6667, y: -204.66666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "If you BREAK your\r\nLEGS\u2026"
+  - NodeGuid: 4fb288f7-2304-48d6-960b-4837a6be9e42
+    Position: {x: 2366.6667, y: -204.66666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "I could SEE that\u2026"
+  - NodeGuid: b98676c1-7819-427e-8bd8-fa5f4443b64b
+    Position: {x: 1498.6666, y: -934.6666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "Tell me MORE about the COUNCIL\u2026"
+  - NodeGuid: 4f2b6343-d67e-47da-a7b9-656aee38e926
+    Position: {x: 2067.3333, y: -934.6666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "What\u2019s THAT?"
+  - NodeGuid: 167b0fd2-77cb-4bf5-a250-cb230cde3a70
+    Position: {x: 2337.3333, y: -934.6666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: 'The COMPUTER they build
+
+        as their ADVISOR.'
+  - NodeGuid: cf61e753-fbe9-4788-8553-ad469db7858f
+    Position: {x: 1780.6666, y: -934.6666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "They GOVERN the City - \r\nwith the help of LINC."
+  - NodeGuid: 5732c332-a273-484d-87b3-49c9fad273b5
+    Position: {x: 1780.6666, y: -581.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: 'Ah, THOSE were the
+
+        days, son!'
+  - NodeGuid: 439792a4-2667-4a81-95be-d06720f4b50f
+    Position: {x: 1470, y: 1825.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "What\u2019s wrong with the\r\nTRANSPORTER?"
+  - NodeGuid: 93f1446d-fd94-4e2a-8641-98238c4ed326
+    Position: {x: 2040, y: 1825.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "It\u2019s probably the DOPPLER CHARGE\r\nINDUCER\u2026"
+  - NodeGuid: b8cc71af-1267-44f6-981c-77b6f55f3887
+    Position: {x: 2330.6667, y: 1825.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "...but I haven\u2019t got TIME\r\nto mend it now."
+  - NodeGuid: a469bc67-309a-4c83-92e3-04cd60dc7bbe
+    Position: {x: 1470, y: 1441.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "How come YOUR\r\nelevator\u2019s not\r\nWORKING?"
+  - NodeGuid: ffc171ef-8beb-4cb7-b59a-234621a8ce04
+    Position: {x: 1476, y: 1059.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: 'So how DO I get to
+
+        ground level?'
+  - NodeGuid: f5b705ed-b3a0-414f-a905-93090df5c119
+    Position: {x: 1746, y: 1059.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "There\u2019s an ELEVATOR out\r\non the WALKWAY."
+  - NodeGuid: 36a120b8-4f47-4294-b79f-1685e7e6bc6f
+    Position: {x: 2028.6666, y: 1059.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "\u2019Course, you can\u2019t\r\nREACH it right NOW!"
+  - NodeGuid: 12c57cb4-8c62-4de3-8253-162a378bbd80
+    Position: {x: 2336.6667, y: 1059.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: Why not?
+  - NodeGuid: b9b358ac-64c2-4ae3-9fa6-7d535bfe3f9b
+    Position: {x: 1476, y: 704}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "What\u2019s the best way OUT of the City?"
+  - NodeGuid: 7576bff7-9092-4a3f-b89b-c629eeec3cd4
+    Position: {x: 1746, y: 704}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "You\u2019ll have to get to\r\nGROUND LEVEL, first!\r"
+  - NodeGuid: 4bd24b28-1c86-4693-bf8b-a48b500cb999
+    Position: {x: 2028.6666, y: 704}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "You\u2019re at the TOP of\r\nEYRIE tower block!"
+  - NodeGuid: bbd6f5c9-6751-4ad4-b6fd-ea318eadd206
+    Position: {x: 1758, y: 1825.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "It\u2019s broken down\u2026\r\nagain."
+  - NodeGuid: 257a0f8f-b26b-4fbf-8116-718cefee6220
+    Position: {x: 1758, y: 1441.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "It\u2019s activated\r\nAUTOMATICALLY, by the\r\nTRANSPORTER
+        robot."
+  - NodeGuid: 22c3a55b-4d79-45ff-ae79-371a730f497d
+    Position: {x: 1476, y: 283.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: Where AM I?
+  - NodeGuid: 33f99600-3bc4-41a8-8d71-fbe3875ad651
+    Position: {x: 1779.3334, y: 283.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "You\u2019re in the Union City\r\nRE-CYCLIN\u2019 plant!"
+  - NodeGuid: a64c622b-b674-4078-bab3-f9f90645eb0d
+    Position: {x: 2363.3333, y: 2515.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts:
+    - PortGuid: 08ee0476-0dd7-4004-badf-f834c2ca08f2
+      InputGuid: 2823aab6-40cf-408b-bbd4-e1e635103936
+      OutputGuid: a64c622b-b674-4078-bab3-f9f90645eb0d
+    - PortGuid: 569860de-4433-4fca-99df-0aa2f10c3ad4
+      InputGuid: 8ec9665e-905f-44a5-99ff-97a30e11bdf1
+      OutputGuid: a64c622b-b674-4078-bab3-f9f90645eb0d
+    ContinueType: 0
+    WaitTime: 5
+    TextBoxes: []
+  - NodeGuid: 56783234-d5cd-438b-bf38-4e11557e1c24
+    Position: {x: 1481.3334, y: 2515.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: What did Security want?
+  - NodeGuid: 35002b6d-7c4d-4fdc-a7de-6f5d80e58f91
+    Position: {x: 3116, y: 2318.6667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "I saw a wrecked\r\nHELICOPTER\u2026\r"
+  - NodeGuid: 19be71df-268f-4e0e-9484-90f2150d017f
+    Position: {x: 3114.6667, y: 2686}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "Only an OVER-ZEALOUS\r\nSecurity agent\u2026\r"
+  - NodeGuid: 9aabc288-9649-4b17-b51c-1d901e3ab6e3
+    Position: {x: 3386, y: 2318.6667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "Yeah - seems it\r\nBLOCKED the WALKWAY\u2026\r"
+  - NodeGuid: 95a95144-235c-4946-aee7-1498637cb215
+    Position: {x: 3687.3333, y: 2318.6667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "\u2026so we\u2019re STUCK in this\r\nBLOCK."
+  - NodeGuid: 49f0d750-17b3-4c3d-9076-258e2c156fe7
+    Position: {x: 3384.6667, y: 2686}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: That would be REICH.
+  - NodeGuid: dc9d174d-9b1b-4b8d-9e76-2d485fd7b072
+    Position: {x: 3686, y: 2686}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: 'Best to AVOID him and
+
+        his BULLY-BOYS!'
+  - NodeGuid: 01f2aeca-f370-4c8b-968d-4c5c0161b0cf
+    Position: {x: 1751.3334, y: 2515.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: After a SABOTEUR.
+  - NodeGuid: 4e79b824-bfb3-4641-bf16-7fb8dcfe3fa9
+    Position: {x: 2039.3334, y: 2515.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "You seen anythin\u2019\r\nSUSPICIOUS?"
+  - NodeGuid: 63466a91-9999-4020-b559-0453bc4e6fcf
+    Position: {x: 1805.3334, y: 3334.6667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "It\u2019s me WORKSHOP. Like\r\nit?"
+  - NodeGuid: 41de0082-42fe-4a24-aa36-c469e34e6f72
+    Position: {x: 2142, y: 3334.6667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts:
+    - PortGuid: d14212c3-0998-4bb6-881b-88b8eaf69afe
+      InputGuid: 1aa3c575-bb69-4098-baa6-48b5a539c823
+      OutputGuid: 41de0082-42fe-4a24-aa36-c469e34e6f72
+    - PortGuid: ff945991-2345-46b4-bc8f-0364c544fbac
+      InputGuid: 1acff960-12d6-4a1f-a31c-318f53b63441
+      OutputGuid: 41de0082-42fe-4a24-aa36-c469e34e6f72
+    ContinueType: 0
+    WaitTime: 5
+    TextBoxes: []
+  - NodeGuid: fabde137-a143-4ac3-8d47-de3450faaec0
+    Position: {x: 3158, y: 3191.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "A symbol of\r\nDEHUMANISED SOCIETY\u2026"
+  - NodeGuid: 518cb540-4192-4c6d-a5c0-926e8209909c
+    Position: {x: 3446.6667, y: 3191.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "\u2026the futile STRUGGLE\r\nagainst ENTROPY\u2026"
+  - NodeGuid: ce2d340f-6671-420c-bce1-03e822d64d41
+    Position: {x: 3740, y: 3191.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: Symbol, my BUM!
+  - NodeGuid: be35b83a-75bf-498a-a10f-166af0dfa282
+    Position: {x: 4041.3333, y: 3191.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "Only thing THIS\r\nsymbolises\u2026"
+  - NodeGuid: 05dc5364-b6b5-43dc-a632-5f8950bcb0f0
+    Position: {x: 4333.3335, y: 3191.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "\u2026is THIRTY YEARS of\r\nHARD GRAFT!"
+  - NodeGuid: 7ad010bc-7500-47b5-b806-ddbab4d479d0
+    Position: {x: 3158, y: 3567.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: 'Yeah - I know what you
+
+        MEAN.'
+  - NodeGuid: f060220f-0a0c-427d-94ac-e069748147e0
+    Position: {x: 2888, y: 3567.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "I don\u2019t think much of\r\nthe PAINTWORK\u2026"
+  - NodeGuid: c4a3e652-53e3-4662-8827-600e9d8ae4ea
+    Position: {x: 3446.6667, y: 3567.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "I thought about\r\nRE-DECORATIN\u2019"
+  - NodeGuid: c8f30348-5f35-4efd-bd58-46b564c94334
+    Position: {x: 1470, y: 4277.333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "I\u2019ll get on with my inspection."
+  - NodeGuid: f998e332-ee0f-47a1-93c9-5a8e0c2ac190
+    Position: {x: 1784, y: 3766.6667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "It\u2019s a SPECIAL job - a\r\nDRIVE SHAFT."
+  - NodeGuid: 4f7d573d-bbbf-43d1-83f5-6e7db78ec94a
+    Position: {x: 2096, y: 3766.6667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: 'LAMB needs it for the
+
+        PIPE factory.'
+  - NodeGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    Position: {x: 81.333336, y: 1110.6666}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts:
+    - PortGuid: 6cbc9ae5-ee1b-4ced-b319-6fdde409e691
+      InputGuid: f421f289-f84a-4643-8c78-1c8a6f9e4e17
+      OutputGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    - PortGuid: 97f54c26-3568-4d45-ba78-f7e46fbebd74
+      InputGuid: 62c6f171-9fdc-4329-acc6-d6c298cf116f
+      OutputGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    - PortGuid: 1c65fd96-f230-48da-acff-85b715f60fd9
+      InputGuid: 035cf56f-b4d5-4241-9cf6-7515273c7ff9
+      OutputGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    - PortGuid: ab791ec1-a6f1-4598-a503-56788b22b5b3
+      InputGuid: 4d1da8d7-0dca-413d-aa50-81b1ba9ad041
+      OutputGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    - PortGuid: 97fba980-6d02-4534-ac84-f3831a5ce4ee
+      InputGuid: 4b44b73a-b068-4be4-a8ee-36593a82ec8a
+      OutputGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    - PortGuid: 0588006f-0c61-4622-b22c-d926e475cee8
+      InputGuid: e7f7662c-b455-454b-bffb-57bba04684fe
+      OutputGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    - PortGuid: 83bc114e-91f2-4a85-ba43-40348f7c3856
+      InputGuid: 80535e0e-4017-47fb-aaa2-a4b0680c37d4
+      OutputGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    - PortGuid: f662678d-4672-4e49-85f2-8095b44e6c55
+      InputGuid: 4c420bce-7ac4-4d1e-95df-72420310763d
+      OutputGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    - PortGuid: 3ab02ddf-282f-4259-9a76-b3301348be9b
+      InputGuid: aabf3524-197f-4207-8b14-a3713754c8a1
+      OutputGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    - PortGuid: e15e5247-ea8d-4ddf-8859-db43cd7c26fd
+      InputGuid: 86cb68c5-a8f5-45ee-b8cd-cea9e9f3d828
+      OutputGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    - PortGuid: 46e51c71-711e-4bc8-93b0-9f626bc4c971
+      InputGuid: f0d8073c-a1e4-4801-8d04-0183fa916cf3
+      OutputGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    - PortGuid: 4a4bed73-fa5c-4b71-97d1-26a960786112
+      InputGuid: 42fca106-dab0-4e61-a8ed-a50dfccca396
+      OutputGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    - PortGuid: fa51d96d-0948-4a29-abe3-ddf93075be48
+      InputGuid: 43f43c9d-5851-4d63-a2cf-80f1c19dd090
+      OutputGuid: 17c90613-d833-41b1-aad9-c83e8273ea11
+    ContinueType: 0
+    WaitTime: 5
+    TextBoxes: []
+  - NodeGuid: 7e594020-95c6-4311-bb19-f3cf33e16d2c
+    Position: {x: 3154, y: -1334}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "I see. And who does HE\r\nwork for?\r"
+  - NodeGuid: 6e32a2b8-0144-4c2f-b154-21a7f404cbc5
+    Position: {x: 1472.6666, y: 3334.6667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: What goes on in here?
+  - NodeGuid: 189d953e-75cb-42d1-aa07-5a9697a0456a
+    Position: {x: 1472.6666, y: 3766.6667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: What are you making?
+  - NodeGuid: d265a0d3-3c3f-43d1-9664-fba0508ceb56
+    Position: {x: 2888, y: 3191.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "It\u2019s\u2026 very impressive."
+  - NodeGuid: e75215b9-04c8-43d7-84dd-3582713af0e6
+    Position: {x: 3740, y: 3567.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "\u2026but I couldn\u2019t be\r\nARSED!"
+  - NodeGuid: 9d3e4035-7ae4-4cf2-8af1-56ab8e87a063
+    Position: {x: 1740, y: 4277.333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: You DO that, son.
+  - NodeGuid: 7868fb85-e475-41c2-b89c-ee2e68fc491e
+    Position: {x: 2621.3333, y: 1059.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "\u2019Cos Reich\u2019s boys are\r\nGUARDIN\u2019 the EXIT from\r\nthe
+        PLANT!"
+  - NodeGuid: e846b8a9-5f23-4362-a5b0-44886b958f2e
+    Position: {x: 2662, y: -581.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "Search ME. Flippin\u2019\r\nRESEARCH scientists,\r\nprob\u2019ly!\r"
+  ChoiceNodeDatas:
+  - NodeGuid: f421f289-f84a-4643-8c78-1c8a6f9e4e17
+    Position: {x: 1154.6666, y: -1334}
+    ID: Choice-1-1
+    Visited: {fileID: 11400000, guid: d8d23676f927e844e93109b9de836f50, type: 2}
+    BoolConditions:
+    - Variable: {fileID: 11400000, guid: d8d23676f927e844e93109b9de836f50, type: 2}
+      ExpectedValue: 0
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: "Who\u2019s in CHARGE around here?"
+    ChoiceType: 0
+  - NodeGuid: 035cf56f-b4d5-4241-9cf6-7515273c7ff9
+    Position: {x: 1154.6666, y: -581.3333}
+    ID: Choice-1-3
+    Visited: {fileID: 11400000, guid: 1f705dff8e8329249ba1854faca5848d, type: 2}
+    BoolConditions:
+    - Variable: {fileID: 11400000, guid: 1f705dff8e8329249ba1854faca5848d, type: 2}
+      ExpectedValue: 0
+    - Variable: {fileID: 11400000, guid: d8d23676f927e844e93109b9de836f50, type: 2}
+      ExpectedValue: 1
+    - Variable: {fileID: 11400000, guid: 81a325e1724a47b4b84e5dda9c4375eb, type: 2}
+      ExpectedValue: 1
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: What was it like before LINC?
+    ChoiceType: 0
+  - NodeGuid: 4d1da8d7-0dca-413d-aa50-81b1ba9ad041
+    Position: {x: 1154.6666, y: -204.66666}
+    ID: Choice-1-4
+    Visited: {fileID: 11400000, guid: 6221971fcc5eb4e4bb25981f9fc1fc94, type: 2}
+    BoolConditions:
+    - Variable: {fileID: 11400000, guid: 6221971fcc5eb4e4bb25981f9fc1fc94, type: 2}
+      ExpectedValue: 0
+    - Variable: {fileID: 11400000, guid: d8d23676f927e844e93109b9de836f50, type: 2}
+      ExpectedValue: 1
+    - Variable: {fileID: 11400000, guid: 81a325e1724a47b4b84e5dda9c4375eb, type: 2}
+      ExpectedValue: 1
+    - Variable: {fileID: 11400000, guid: 1f705dff8e8329249ba1854faca5848d, type: 2}
+      ExpectedValue: 1
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: How come your FIRE EXIT leads NOWHERE?
+    ChoiceType: 0
+  - NodeGuid: 62c6f171-9fdc-4329-acc6-d6c298cf116f
+    Position: {x: 1154.6666, y: -934.6666}
+    ID: Choice-1-2
+    Visited: {fileID: 11400000, guid: 81a325e1724a47b4b84e5dda9c4375eb, type: 2}
+    BoolConditions:
+    - Variable: {fileID: 11400000, guid: 81a325e1724a47b4b84e5dda9c4375eb, type: 2}
+      ExpectedValue: 0
+    - Variable: {fileID: 11400000, guid: d8d23676f927e844e93109b9de836f50, type: 2}
+      ExpectedValue: 1
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: "Tell me MORE about the COUNCIL\u2026"
+    ChoiceType: 0
+  - NodeGuid: 4b44b73a-b068-4be4-a8ee-36593a82ec8a
+    Position: {x: 1169.3334, y: 283.3333}
+    ID: Choice-2-1
+    Visited: {fileID: 11400000, guid: 4ae2ab1d73ad35f47b3053168a98a6a7, type: 2}
+    BoolConditions:
+    - Variable: {fileID: 11400000, guid: 4ae2ab1d73ad35f47b3053168a98a6a7, type: 2}
+      ExpectedValue: 0
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: Where AM I?
+    ChoiceType: 0
+  - NodeGuid: aabf3524-197f-4207-8b14-a3713754c8a1
+    Position: {x: 1159.3334, y: 1825.3333}
+    ID: Choice-2-5
+    Visited: {fileID: 11400000, guid: cfdab1995f762164989f6c5c5a0feab9, type: 2}
+    BoolConditions:
+    - Variable: {fileID: 11400000, guid: c997a6c887ada9543a011721fd463c04, type: 2}
+      ExpectedValue: 1
+    - Variable: {fileID: 11400000, guid: 4ae2ab1d73ad35f47b3053168a98a6a7, type: 2}
+      ExpectedValue: 1
+    - Variable: {fileID: 11400000, guid: a942543209e1aeb4988f81e39b25b204, type: 2}
+      ExpectedValue: 1
+    - Variable: {fileID: 11400000, guid: ae0b9f49d57238b49a059c857a502ffa, type: 2}
+      ExpectedValue: 1
+    - Variable: {fileID: 11400000, guid: 9402c508fe992f74681ad34899d6b1bf, type: 2}
+      ExpectedValue: 1
+    - Variable: {fileID: 11400000, guid: cfdab1995f762164989f6c5c5a0feab9, type: 2}
+      ExpectedValue: 0
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: "What\u2019s wrong with the TRANSPORTER?"
+    ChoiceType: 0
+  - NodeGuid: 4c420bce-7ac4-4d1e-95df-72420310763d
+    Position: {x: 1159.3334, y: 1441.3333}
+    ID: Choice-2-4
+    Visited: {fileID: 11400000, guid: 9402c508fe992f74681ad34899d6b1bf, type: 2}
+    BoolConditions:
+    - Variable: {fileID: 11400000, guid: 9402c508fe992f74681ad34899d6b1bf, type: 2}
+      ExpectedValue: 0
+    - Variable: {fileID: 11400000, guid: ae0b9f49d57238b49a059c857a502ffa, type: 2}
+      ExpectedValue: 1
+    - Variable: {fileID: 11400000, guid: a942543209e1aeb4988f81e39b25b204, type: 2}
+      ExpectedValue: 1
+    - Variable: {fileID: 11400000, guid: 4ae2ab1d73ad35f47b3053168a98a6a7, type: 2}
+      ExpectedValue: 1
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: "How come YOUR elevator\u2019s not WORKING?"
+    ChoiceType: 0
+  - NodeGuid: 80535e0e-4017-47fb-aaa2-a4b0680c37d4
+    Position: {x: 1165.3334, y: 1059.3333}
+    ID: Choice-2-3
+    Visited: {fileID: 11400000, guid: ae0b9f49d57238b49a059c857a502ffa, type: 2}
+    BoolConditions:
+    - Variable: {fileID: 11400000, guid: ae0b9f49d57238b49a059c857a502ffa, type: 2}
+      ExpectedValue: 0
+    - Variable: {fileID: 11400000, guid: 4ae2ab1d73ad35f47b3053168a98a6a7, type: 2}
+      ExpectedValue: 1
+    - Variable: {fileID: 11400000, guid: a942543209e1aeb4988f81e39b25b204, type: 2}
+      ExpectedValue: 1
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: "So how DO I get to ground level?\r"
+    ChoiceType: 0
+  - NodeGuid: e7f7662c-b455-454b-bffb-57bba04684fe
+    Position: {x: 1165.3334, y: 704}
+    ID: Choice-2-2
+    Visited: {fileID: 11400000, guid: a942543209e1aeb4988f81e39b25b204, type: 2}
+    BoolConditions:
+    - Variable: {fileID: 11400000, guid: a942543209e1aeb4988f81e39b25b204, type: 2}
+      ExpectedValue: 0
+    - Variable: {fileID: 11400000, guid: 4ae2ab1d73ad35f47b3053168a98a6a7, type: 2}
+      ExpectedValue: 1
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: "What\u2019s the best way OUT of the City?\r"
+    ChoiceType: 0
+  - NodeGuid: 86cb68c5-a8f5-45ee-b8cd-cea9e9f3d828
+    Position: {x: 1144.6666, y: 2515.3335}
+    ID: Choice-3-1
+    Visited: {fileID: 11400000, guid: 9408b0062cfeaa64ebe284235c248e0e, type: 2}
+    BoolConditions:
+    - Variable: {fileID: 11400000, guid: 9408b0062cfeaa64ebe284235c248e0e, type: 2}
+      ExpectedValue: 0
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: What did Security want?
+    ChoiceType: 0
+  - NodeGuid: 2823aab6-40cf-408b-bbd4-e1e635103936
+    Position: {x: 2754, y: 2318.6667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: "I saw a wrecked HELICOPTER\u2026"
+    ChoiceType: 0
+  - NodeGuid: 8ec9665e-905f-44a5-99ff-97a30e11bdf1
+    Position: {x: 2752.6667, y: 2686}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: "Only an OVER-ZEALOUS Security agent\u2026"
+    ChoiceType: 0
+  - NodeGuid: f0d8073c-a1e4-4801-8d04-0183fa916cf3
+    Position: {x: 1154, y: 3334.6667}
+    ID: Choice-4-1
+    Visited: {fileID: 11400000, guid: ee2427f8ed2862a4f9256298343fd113, type: 2}
+    BoolConditions:
+    - Variable: {fileID: 11400000, guid: ee2427f8ed2862a4f9256298343fd113, type: 2}
+      ExpectedValue: 0
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: What goes on in here?
+    ChoiceType: 0
+  - NodeGuid: 1aa3c575-bb69-4098-baa6-48b5a539c823
+    Position: {x: 2526, y: 3191.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: "It\u2019s\u2026 very impressive."
+    ChoiceType: 0
+  - NodeGuid: 1acff960-12d6-4a1f-a31c-318f53b63441
+    Position: {x: 2526, y: 3567.3335}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: "I don\u2019t think much of the PAINTWORK\u2026"
+    ChoiceType: 0
+  - NodeGuid: 43f43c9d-5851-4d63-a2cf-80f1c19dd090
+    Position: {x: 1151.3334, y: 4277.333}
+    ID: Choice-5-1
+    Visited: {fileID: 11400000, guid: 2427d059ffaefde42b88c714866c6ea5, type: 2}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: "I\u2019ll get on with my inspection."
+    ChoiceType: 0
+  - NodeGuid: 42fca106-dab0-4e61-a8ed-a50dfccca396
+    Position: {x: 1154, y: 3766.6667}
+    ID: Choice-4-2
+    Visited: {fileID: 11400000, guid: 3fa12a0535d2c8044a34dcb261d3e30c, type: 2}
+    BoolConditions:
+    - Variable: {fileID: 11400000, guid: 3fa12a0535d2c8044a34dcb261d3e30c, type: 2}
+      ExpectedValue: 0
+    - Variable: {fileID: 11400000, guid: ee2427f8ed2862a4f9256298343fd113, type: 2}
+      ExpectedValue: 1
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    DialogueText: What are you making?
+    ChoiceType: 0
+  EventNodeDatas:
+  - NodeGuid: 68fd3b09-66c2-4981-be7f-e682576a0a2e
+    Position: {x: 2225.3333, y: -1564.6667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    EventScriptableObjects:
+    - DialogueEvent: {fileID: 11400000, guid: af84496a862784b45aae0996d12f5f0a, type: 2}
+  BranchNodeDatas: []
+  EndNodeDatas:
+  - NodeGuid: 555db60e-30e9-4ff8-8304-cefdf965b445
+    Position: {x: 2126.6667, y: 4276.6665}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    EndNodeType: 0

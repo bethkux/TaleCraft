@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd7aacfd666d744ab8bf09a5a18dd9e, type: 3}
+  m_Name: RobotShell_I
+  m_EditorClassIdentifier: 
+  EdgeDatas:
+  - TargetNodeGuid: bab6ac11-6099-4a14-97cf-b63a79f2ec66
+    TargetPortName: Input
+    BaseNodeGuid: 35bbcb1c-3017-48ef-ac6b-99a43f6e3071
+    BasePortName: Output
+  - TargetNodeGuid: fb3776d3-b24d-412c-a9b0-dc5249b79053
+    TargetPortName: Input
+    BaseNodeGuid: bab6ac11-6099-4a14-97cf-b63a79f2ec66
+    BasePortName: Continue
+  StartNodeDatas:
+  - NodeGuid: 35bbcb1c-3017-48ef-ac6b-99a43f6e3071
+    Position: {x: 84.666664, y: 154.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+  DialogueNodeDatas:
+  - NodeGuid: bab6ac11-6099-4a14-97cf-b63a79f2ec66
+    Position: {x: 358.66666, y: 154.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: 'It''s got no CIRCUIT
+
+        BOARD...'
+  ChoiceNodeDatas: []
+  EventNodeDatas: []
+  BranchNodeDatas: []
+  EndNodeDatas:
+  - NodeGuid: fb3776d3-b24d-412c-a9b0-dc5249b79053
+    Position: {x: 651.3333, y: 154.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    EndNodeType: 0

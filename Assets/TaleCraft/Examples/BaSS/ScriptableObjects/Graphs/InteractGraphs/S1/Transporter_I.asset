@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd7aacfd666d744ab8bf09a5a18dd9e, type: 3}
+  m_Name: Transporter_I
+  m_EditorClassIdentifier: 
+  EdgeDatas:
+  - TargetNodeGuid: 1949c161-0847-4747-99f7-75903e4cc8ec
+    TargetPortName: Input
+    BaseNodeGuid: 9037ac1b-b405-486c-8c7e-31fba292cc0e
+    BasePortName: Continue
+  - TargetNodeGuid: 9037ac1b-b405-486c-8c7e-31fba292cc0e
+    TargetPortName: Input
+    BaseNodeGuid: bb435cf6-978b-4b3a-9525-7c75bf42cfae
+    BasePortName: Output
+  StartNodeDatas:
+  - NodeGuid: bb435cf6-978b-4b3a-9525-7c75bf42cfae
+    Position: {x: 48, y: 216.66667}
+    ID: Transporter-start
+    Visited: {fileID: 11400000, guid: c997a6c887ada9543a011721fd463c04, type: 2}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+  DialogueNodeDatas:
+  - NodeGuid: 9037ac1b-b405-486c-8c7e-31fba292cc0e
+    Position: {x: 341.33334, y: 216.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: 'There doesn''t APPEAR to
+
+        be anything WRONG with
+
+        it...'
+  ChoiceNodeDatas: []
+  EventNodeDatas: []
+  BranchNodeDatas: []
+  EndNodeDatas:
+  - NodeGuid: 1949c161-0847-4747-99f7-75903e4cc8ec
+    Position: {x: 672.6667, y: 216.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    EndNodeType: 0

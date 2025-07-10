@@ -1,0 +1,15 @@
+.node #title {
+    background-color: rgb(120, 80, 150);
+    -unity-font-style: bold; 
+}
+
+.EventText{
+    min-width:150px;
+}
+
+.EventInt{
+    min-width:40px;
+}
+
+
+.EventObject{}

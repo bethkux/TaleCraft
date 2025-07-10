@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd7aacfd666d744ab8bf09a5a18dd9e, type: 3}
+  m_Name: Lift_LA
+  m_EditorClassIdentifier: 
+  EdgeDatas:
+  - TargetNodeGuid: d8ce28db-703b-41d3-be60-c3ad034f2c0c
+    TargetPortName: Input
+    BaseNodeGuid: 40e1cb87-1fd7-4baa-afd5-5c6f57b898eb
+    BasePortName: Output
+  - TargetNodeGuid: 948d1de6-77dd-4dc9-ad15-5badcce2442b
+    TargetPortName: Input
+    BaseNodeGuid: d8ce28db-703b-41d3-be60-c3ad034f2c0c
+    BasePortName: Continue
+  StartNodeDatas:
+  - NodeGuid: 40e1cb87-1fd7-4baa-afd5-5c6f57b898eb
+    Position: {x: 286.66666, y: 162}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+  DialogueNodeDatas:
+  - NodeGuid: d8ce28db-703b-41d3-be60-c3ad034f2c0c
+    Position: {x: 521.3333, y: 162}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+    DialogueText: "An ELEVATOR to the \nfloor BELOW..."
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "An ELEVATOR to the \nfloor BELOW..."
+  ChoiceNodeDatas: []
+  EventNodeDatas: []
+  BranchNodeDatas: []
+  EndNodeDatas:
+  - NodeGuid: 948d1de6-77dd-4dc9-ad15-5badcce2442b
+    Position: {x: 788, y: 162}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    EndNodeType: 0

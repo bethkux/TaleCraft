@@ -1,0 +1,54 @@
+#node-border {
+    background-color: rgba(30,30,30,0.75);
+}
+
+.Label {
+    margin-top:5px;
+    margin-left:4px;
+    font-size:12px;
+    -unity-font-style: bold; 
+}
+
+.Variable {
+    max-width:120px;
+    margin-right: 5px;
+    margin-left: auto;
+}
+
+.CustomBox{
+    flex-direction: row;
+}
+
+.PortName{
+    display:none;
+}
+
+.InputField{
+    min-width:100px;
+    margin-right: 5px;
+    margin-left: auto;
+}
+
+.IDField{
+    min-width:147px;
+    margin-right: 5px;
+    margin-left: auto;
+}
+
+.Hide{
+	display:none;
+}
+
+.Show{
+	display:Flex;
+}
+
+.CustomButton{
+    margin-right: 5px;
+    margin-left: auto;
+}
+
+.Right{
+    margin-right: 0px;
+    margin-left: auto;
+}

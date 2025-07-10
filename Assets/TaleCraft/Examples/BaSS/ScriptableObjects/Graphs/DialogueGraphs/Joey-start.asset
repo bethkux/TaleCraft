@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd7aacfd666d744ab8bf09a5a18dd9e, type: 3}
+  m_Name: Joey-start
+  m_EditorClassIdentifier: 
+  GroupDatas: []
+  EdgeDatas:
+  - TargetNodeGuid: 98c92ef6-1880-4de5-b1a2-01f054fab915
+    TargetPortName: Input
+    BaseNodeGuid: c7b465ae-cbb2-4cd0-9f3d-d9ddf25fa9af
+    BasePortName: Output
+  - TargetNodeGuid: 07625bf4-608d-4ff7-bda7-6903c19ccc01
+    TargetPortName: Input
+    BaseNodeGuid: 98c92ef6-1880-4de5-b1a2-01f054fab915
+    BasePortName: Continue
+  - TargetNodeGuid: 5579ffdd-b2af-40a0-9012-727775a51c4e
+    TargetPortName: Input
+    BaseNodeGuid: 07625bf4-608d-4ff7-bda7-6903c19ccc01
+    BasePortName: Continue
+  - TargetNodeGuid: 003f2735-0937-430b-8042-091ef5a35bb7
+    TargetPortName: Input
+    BaseNodeGuid: 5579ffdd-b2af-40a0-9012-727775a51c4e
+    BasePortName: Continue
+  - TargetNodeGuid: 3c17457b-3ce4-411d-9ebd-b586c3f4f53b
+    TargetPortName: Input
+    BaseNodeGuid: 003f2735-0937-430b-8042-091ef5a35bb7
+    BasePortName: Continue
+  - TargetNodeGuid: a49695ac-29d4-4140-ba2e-a124bda3fca6
+    TargetPortName: Input
+    BaseNodeGuid: 3e2520e4-1be1-400b-b0e7-667cbf406088
+    BasePortName: Continue
+  - TargetNodeGuid: 6da4bec5-1588-49ca-99a0-fe4c2e838e18
+    TargetPortName: Input
+    BaseNodeGuid: a49695ac-29d4-4140-ba2e-a124bda3fca6
+    BasePortName: Continue
+  - TargetNodeGuid: 06847ca5-620a-4c19-b70b-d7633a543293
+    TargetPortName: Input
+    BaseNodeGuid: 6da4bec5-1588-49ca-99a0-fe4c2e838e18
+    BasePortName: Continue
+  - TargetNodeGuid: d6d089d0-d793-4b18-88a2-f74a99db5fa2
+    TargetPortName: Input
+    BaseNodeGuid: 06847ca5-620a-4c19-b70b-d7633a543293
+    BasePortName: Continue
+  - TargetNodeGuid: 3f829282-2487-4539-89aa-8dc363804973
+    TargetPortName: Input
+    BaseNodeGuid: d6d089d0-d793-4b18-88a2-f74a99db5fa2
+    BasePortName: Continue
+  - TargetNodeGuid: 2a4abf8e-4556-4185-9979-b17f7f006ad0
+    TargetPortName: Input
+    BaseNodeGuid: 3f829282-2487-4539-89aa-8dc363804973
+    BasePortName: Continue
+  - TargetNodeGuid: 3e2520e4-1be1-400b-b0e7-667cbf406088
+    TargetPortName: Input
+    BaseNodeGuid: 3c17457b-3ce4-411d-9ebd-b586c3f4f53b
+    BasePortName: Continue
+  StartNodeDatas:
+  - NodeGuid: c7b465ae-cbb2-4cd0-9f3d-d9ddf25fa9af
+    Position: {x: 282, y: 222}
+    ID: Start of journey
+    Visited: {fileID: 11400000, guid: 94aa88f1ed414434e9be665df4067681, type: 2}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+  DialogueNodeDatas:
+  - NodeGuid: 98c92ef6-1880-4de5-b1a2-01f054fab915
+    Position: {x: 619.3333, y: 222}
+    ID: 
+    Visited: {fileID: 11400000, guid: 94aa88f1ed414434e9be665df4067681, type: 2}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: Welcome back, Joey!
+  - NodeGuid: 5579ffdd-b2af-40a0-9012-727775a51c4e
+    Position: {x: 1168.6666, y: 222}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: 'Listen, we''re in DEEP
+
+        trouble...'
+  - NodeGuid: 003f2735-0937-430b-8042-091ef5a35bb7
+    Position: {x: 1450.6666, y: 222}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: cfedf343851ecf3488564642c76f6a67, type: 2}
+      DialogueText: "You've turned me into a \nVACUUM CLEANER!"
+  - NodeGuid: 3e2520e4-1be1-400b-b0e7-667cbf406088
+    Position: {x: 2060, y: 222}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: 'Now, I don''t know
+
+        WHERE we ARE...'
+  - NodeGuid: a49695ac-29d4-4140-ba2e-a124bda3fca6
+    Position: {x: 2358, y: 222}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: '...but I need to get
+
+        some ANSWERS!'
+  - NodeGuid: 6da4bec5-1588-49ca-99a0-fe4c2e838e18
+    Position: {x: 2658, y: 222}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: cfedf343851ecf3488564642c76f6a67, type: 2}
+      DialogueText: 'I''ve got a weird
+
+        reading from my
+
+        SCANNER...'
+  - NodeGuid: 06847ca5-620a-4c19-b70b-d7633a543293
+    Position: {x: 2924, y: 222}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: cfedf343851ecf3488564642c76f6a67, type: 2}
+      DialogueText: 'We''re ONE-TWENTY
+
+        METERS above the
+
+        GROUND!'
+  - NodeGuid: d6d089d0-d793-4b18-88a2-f74a99db5fa2
+    Position: {x: 3209.3333, y: 222}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: 'We''ve got to find a way
+
+        DOWN...'
+  - NodeGuid: 3f829282-2487-4539-89aa-8dc363804973
+    Position: {x: 3478.6667, y: 222}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: '...and keep out of the
+
+        way of SECURITY!'
+  - NodeGuid: 3c17457b-3ce4-411d-9ebd-b586c3f4f53b
+    Position: {x: 1759.3334, y: 222}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "It's functional. Don't \nbe UNGRATEFUL."
+  - NodeGuid: 07625bf4-608d-4ff7-bda7-6903c19ccc01
+    Position: {x: 890.6667, y: 222}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: cfedf343851ecf3488564642c76f6a67, type: 2}
+      DialogueText: 'Is this the BEST shell
+
+        you could FIND?'
+  ChoiceNodeDatas: []
+  EventNodeDatas: []
+  BranchNodeDatas: []
+  EndNodeDatas:
+  - NodeGuid: 2a4abf8e-4556-4185-9979-b17f7f006ad0
+    Position: {x: 3742.6667, y: 222}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    EndNodeType: 0

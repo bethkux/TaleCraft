@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd7aacfd666d744ab8bf09a5a18dd9e, type: 3}
+  m_Name: Map
+  m_EditorClassIdentifier: 
+  EdgeDatas:
+  - TargetNodeGuid: c1afc561-48fa-4b94-8d20-f69ba73ae7f5
+    TargetPortName: Input
+    BaseNodeGuid: 698388b3-0c5f-477b-aa80-f3a13f9b1679
+    BasePortName: Output
+  - TargetNodeGuid: b8db3683-b05f-421f-9361-d415417b3136
+    TargetPortName: Input
+    BaseNodeGuid: c1afc561-48fa-4b94-8d20-f69ba73ae7f5
+    BasePortName: Continue
+  - TargetNodeGuid: c373a524-19f2-4efe-bbd9-50c7f41918c1
+    TargetPortName: Input
+    BaseNodeGuid: b8db3683-b05f-421f-9361-d415417b3136
+    BasePortName: Continue
+  - TargetNodeGuid: b16604c5-61da-4cf7-b69e-4c5b06224215
+    TargetPortName: Input
+    BaseNodeGuid: c373a524-19f2-4efe-bbd9-50c7f41918c1
+    BasePortName: Continue
+  - TargetNodeGuid: fefa7d5a-bc91-4ef7-909a-89e39087b5d4
+    TargetPortName: Input
+    BaseNodeGuid: b16604c5-61da-4cf7-b69e-4c5b06224215
+    BasePortName: Continue
+  StartNodeDatas:
+  - NodeGuid: 698388b3-0c5f-477b-aa80-f3a13f9b1679
+    Position: {x: -30, y: 248.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+  DialogueNodeDatas:
+  - NodeGuid: b8db3683-b05f-421f-9361-d415417b3136
+    Position: {x: 526.6667, y: 248.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 0b06a8e11dca2a140ac54977213417f3, type: 2}
+      DialogueText: This is no map!
+  - NodeGuid: c373a524-19f2-4efe-bbd9-50c7f41918c1
+    Position: {x: 822.6667, y: 248.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 0b06a8e11dca2a140ac54977213417f3, type: 2}
+      DialogueText: It looks like...
+  - NodeGuid: c1afc561-48fa-4b94-8d20-f69ba73ae7f5
+    Position: {x: 238.66667, y: 248.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 0b06a8e11dca2a140ac54977213417f3, type: 2}
+      DialogueText: I think I've been had!
+  - NodeGuid: b16604c5-61da-4cf7-b69e-4c5b06224215
+    Position: {x: 1110.6666, y: 248.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 0b06a8e11dca2a140ac54977213417f3, type: 2}
+      DialogueText: ...dancing lessons!
+  ChoiceNodeDatas: []
+  EventNodeDatas: []
+  BranchNodeDatas: []
+  EndNodeDatas:
+  - NodeGuid: fefa7d5a-bc91-4ef7-909a-89e39087b5d4
+    Position: {x: 1412, y: 248.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    EndNodeType: 0

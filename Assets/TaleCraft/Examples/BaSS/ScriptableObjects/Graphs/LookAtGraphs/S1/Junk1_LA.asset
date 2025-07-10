@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd7aacfd666d744ab8bf09a5a18dd9e, type: 3}
+  m_Name: Junk1_LA
+  m_EditorClassIdentifier: 
+  EdgeDatas:
+  - TargetNodeGuid: 6e2a1e12-c3a7-47e7-bd05-7c42b47b18a1
+    TargetPortName: Input
+    BaseNodeGuid: 14baf901-ba11-457d-9488-8f58a0fa937e
+    BasePortName: Output
+  - TargetNodeGuid: fbd06440-5c09-40e8-8367-2abb4c0649a2
+    TargetPortName: Input
+    BaseNodeGuid: 6e2a1e12-c3a7-47e7-bd05-7c42b47b18a1
+    BasePortName: Continue
+  StartNodeDatas:
+  - NodeGuid: 14baf901-ba11-457d-9488-8f58a0fa937e
+    Position: {x: 244, y: 209.33334}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+  DialogueNodeDatas:
+  - NodeGuid: 6e2a1e12-c3a7-47e7-bd05-7c42b47b18a1
+    Position: {x: 532.6667, y: 209.33334}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+    DialogueText: 'A discarded COFFEE
+
+      machine?'
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: 'A discarded COFFEE
+
+        machine?'
+  ChoiceNodeDatas: []
+  EventNodeDatas: []
+  BranchNodeDatas: []
+  EndNodeDatas:
+  - NodeGuid: fbd06440-5c09-40e8-8367-2abb4c0649a2
+    Position: {x: 806.6667, y: 209.33334}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    EndNodeType: 0

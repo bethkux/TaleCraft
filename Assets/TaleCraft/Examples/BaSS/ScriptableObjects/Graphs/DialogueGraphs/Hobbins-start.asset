@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd7aacfd666d744ab8bf09a5a18dd9e, type: 3}
+  m_Name: Hobbins-start
+  m_EditorClassIdentifier: 
+  GroupDatas: []
+  EdgeDatas:
+  - TargetNodeGuid: 4e3c2dbc-33d2-4f65-bff0-fe20d075369d
+    TargetPortName: Input
+    BaseNodeGuid: a79dc675-7ef7-4715-b413-32c97f68e812
+    BasePortName: Output
+  - TargetNodeGuid: 3db37b0e-f820-4242-bddc-cfcbe44a5308
+    TargetPortName: Input
+    BaseNodeGuid: 4e3c2dbc-33d2-4f65-bff0-fe20d075369d
+    BasePortName: Continue
+  - TargetNodeGuid: f9b30455-9512-4a40-bb0f-43f0fb647a37
+    TargetPortName: Input
+    BaseNodeGuid: 3db37b0e-f820-4242-bddc-cfcbe44a5308
+    BasePortName: Continue
+  - TargetNodeGuid: f13119e3-cb02-4e7f-a11e-a4805ed0a5d6
+    TargetPortName: Input
+    BaseNodeGuid: f9b30455-9512-4a40-bb0f-43f0fb647a37
+    BasePortName: Continue
+  - TargetNodeGuid: b90722ac-3e2f-425a-958c-b681c0bb3b6d
+    TargetPortName: Input
+    BaseNodeGuid: f13119e3-cb02-4e7f-a11e-a4805ed0a5d6
+    BasePortName: Continue
+  - TargetNodeGuid: 34c43660-c6e8-48cc-943b-99e86f2fc62e
+    TargetPortName: Input
+    BaseNodeGuid: b90722ac-3e2f-425a-958c-b681c0bb3b6d
+    BasePortName: Continue
+  - TargetNodeGuid: 51e942ae-9d32-4394-b804-b8d53296d150
+    TargetPortName: Input
+    BaseNodeGuid: 34c43660-c6e8-48cc-943b-99e86f2fc62e
+    BasePortName: Continue
+  - TargetNodeGuid: d29c919b-8dd7-45bc-b371-c62296b7745b
+    TargetPortName: Input
+    BaseNodeGuid: 2679b5e1-195b-4d12-810e-b91ed95d4b6f
+    BasePortName: Continue
+  - TargetNodeGuid: 5ed43468-f710-40d9-8798-e667022fdcd4
+    TargetPortName: Input
+    BaseNodeGuid: d29c919b-8dd7-45bc-b371-c62296b7745b
+    BasePortName: Continue
+  - TargetNodeGuid: b80b998a-7157-464e-a4f2-8c7aa3d02f98
+    TargetPortName: Input
+    BaseNodeGuid: 5ed43468-f710-40d9-8798-e667022fdcd4
+    BasePortName: Continue
+  - TargetNodeGuid: 2679b5e1-195b-4d12-810e-b91ed95d4b6f
+    TargetPortName: Input
+    BaseNodeGuid: 51e942ae-9d32-4394-b804-b8d53296d150
+    BasePortName: True
+  - TargetNodeGuid: b80b998a-7157-464e-a4f2-8c7aa3d02f98
+    TargetPortName: Input
+    BaseNodeGuid: 51e942ae-9d32-4394-b804-b8d53296d150
+    BasePortName: False
+  StartNodeDatas:
+  - NodeGuid: a79dc675-7ef7-4715-b413-32c97f68e812
+    Position: {x: 72.666664, y: 226.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+  DialogueNodeDatas:
+  - NodeGuid: 4e3c2dbc-33d2-4f65-bff0-fe20d075369d
+    Position: {x: 380, y: 226.66667}
+    ID: First Interaction
+    Visited: {fileID: 11400000, guid: ba92b109e2d427948bdd4d35aabf808e, type: 2}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: What YOU want?
+  - NodeGuid: 3db37b0e-f820-4242-bddc-cfcbe44a5308
+    Position: {x: 677.3333, y: 226.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 4
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "Weren\u2019t you told?\r\nROUTINE INSPECTION."
+  - NodeGuid: b90722ac-3e2f-425a-958c-b681c0bb3b6d
+    Position: {x: 1529.3334, y: 226.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "Don\u2019t worry, I can\r\nshow MYSELF around."
+  - NodeGuid: 34c43660-c6e8-48cc-943b-99e86f2fc62e
+    Position: {x: 1804, y: 226.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: "You won\u2019t even notice\r\nI\u2019m here\u2026"
+  - NodeGuid: 2679b5e1-195b-4d12-810e-b91ed95d4b6f
+    Position: {x: 2352.6667, y: -111.333336}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 3.5
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: 'Where did you get that
+
+        ROBOT?'
+  - NodeGuid: d29c919b-8dd7-45bc-b371-c62296b7745b
+    Position: {x: 2630, y: -111.333336}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2.7
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: a5082f632c1da1c4e85e3a715d1c1889, type: 2}
+      DialogueText: I BUILT him. LIKE it?
+  - NodeGuid: 5ed43468-f710-40d9-8798-e667022fdcd4
+    Position: {x: 2911.3333, y: -111.333336}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "It\u2019s CRAP, son."
+  - NodeGuid: f9b30455-9512-4a40-bb0f-43f0fb647a37
+    Position: {x: 972.6667, y: 226.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: Nobody told ME!
+  - NodeGuid: f13119e3-cb02-4e7f-a11e-a4805ed0a5d6
+    Position: {x: 1248, y: 226.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    NodePorts: []
+    ContinueType: 1
+    WaitTime: 2.8
+    TextBoxes:
+    - CharacterID: {fileID: 11400000, guid: 3c8552cd80dd30348b90402c22606d59, type: 2}
+      DialogueText: "I\u2019m too BUSY to show\r\nyou round\u2026"
+  ChoiceNodeDatas: []
+  EventNodeDatas: []
+  BranchNodeDatas:
+  - NodeGuid: 51e942ae-9d32-4394-b804-b8d53296d150
+    Position: {x: 2088, y: 226.66667}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions:
+    - Variable: {fileID: 11400000, guid: 94aa88f1ed414434e9be665df4067681, type: 2}
+      ExpectedValue: 1
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    TrueGuidNode: 2679b5e1-195b-4d12-810e-b91ed95d4b6f
+    FalseGuidNode: b80b998a-7157-464e-a4f2-8c7aa3d02f98
+  EndNodeDatas:
+  - NodeGuid: b80b998a-7157-464e-a4f2-8c7aa3d02f98
+    Position: {x: 3192, y: 329.3333}
+    ID: 
+    Visited: {fileID: 0}
+    BoolConditions: []
+    IntConditions: []
+    FloatConditions: []
+    StringConditions: []
+    EndNodeType: 0
